@@ -1,2 +1,2 @@
-# autoloader
-Simple autoloader classes.
+# PHP autoloader
+Simple autoloader class.
