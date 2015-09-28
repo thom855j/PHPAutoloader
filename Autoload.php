@@ -1,6 +1,6 @@
 <?php 
 
-namespace thom855j\php_autoloader;
+namespace thom855j\PHPAutoloader;
 
 class Autoload 
 { 
